@@ -1,6 +1,10 @@
 #include <iostream>
+using namespace std;
 int main(){
-	int a=10;
-	std::cout<<a+10;
+	int a;
+	cout<<"Podaj liczbe: ";
+	cin>>a;
+	cout<<"a+10="<<10+a<<endl;
+	
 	return 0;
 }
