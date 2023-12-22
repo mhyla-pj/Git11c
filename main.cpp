@@ -5,7 +5,8 @@ int main(){
 	cout<<"Podaj liczbe: ";
 	cin>>a;
 	cout<<"a*10="<<a*10<<endl;
-	cout<<"a+10="<<10+a<<endl;
+	cout<<"a+10="<<a+10<<endl;
+	cout<<"a/10="<<a/10<<endl;
 	cout<<"a-10="<<a-10<<endl;
 	
 	return 0;
